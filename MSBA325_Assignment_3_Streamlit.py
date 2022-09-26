@@ -1,6 +1,3 @@
-from turtle import position
-import tkinter as TK
-import _tkinter
 import streamlit as st
 import pandas as pd
 import numpy as np
