@@ -1,2 +1,15 @@
-streamlit==1.13.0
-plotly==5.1.0
+joblib
+matplotlib
+numpy
+pandas
+pandas_profiling
+Pillow
+plotly
+scikit_learn
+scipy
+seaborn
+squarify
+statsmodels
+streamlit
+streamlit_pandas_profiling
+xgboost
